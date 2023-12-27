@@ -299,5 +299,13 @@
     margin-top: 2px;
 }
 
+@media screen and (max-width: 280px) {
+    .btn{
+        margin: 3px 0;
+    }
+
+}
+
+
 /* end */
 
